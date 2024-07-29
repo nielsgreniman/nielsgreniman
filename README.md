@@ -2,7 +2,7 @@
 
 - I'm currently studying computer science at the University of Copenhagen.
 - I'm looking for a job in Jutland (Denmark) near Kolding - also available to remote work.
-- I'm particularly interested in software devolepment for the greater good.
+- I'm particularly interested in software development for the greater good.
 - I like to communicate with people
 - I'm always eager to learn new stuff!
 - Have a look on some of my public repositories to get insight into my interests and programming skills.
